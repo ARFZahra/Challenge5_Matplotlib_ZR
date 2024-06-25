@@ -12,8 +12,8 @@ For Challenge 5, to screen potential treatments for squamous cell carcinoma (SCC
 
 Analysis related files are in following folders: 
 Pymaceuticals folder - Jupyter notebook - Code_ZR.ipynb, 
-                         datafolder -  metadata. 
-                         Images folder - all images. 
+                         data_folder -  metadata. 
+                         Image_folder - all images. 
 I utilized Xpert Learning Assistant and ChatGPT to understand and debug codes. 
 
 
