@@ -10,9 +10,10 @@ For Challenge 5, to screen potential treatments for squamous cell carcinoma (SCC
 
 •	A scatter plot of mouse weight versus average observed tumor volume for the entire Capomulin treatment regimen showed a positive correlation.
 
-Analysis related files are in following folders
-Pymaceuticals folder contains the Jupyter notebook along with csv in the 'data' folder. 
-Images folder contain all images. 
+Analysis related files are in following folders: 
+Pymaceuticals folder - Jupyter notebook - Code_ZR.ipynb, 
+                         datafolder -  metadata. 
+                         Images folder - all images. 
 I utilized Xpert Learning Assistant and ChatGPT to understand and debug codes. 
 
 
